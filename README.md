@@ -70,12 +70,9 @@
 
 ```
 models/
+  mouse-hideout-100mm-print-ready.stl     ★ 打印用，已摆好姿态，直接切片
   mouse-hideout-100mm.obj                 原始模型（使用姿态）
-  mouse-hideout-100mm-house-pose.stl      使用姿态 STL
-  mouse-hideout-100mm-print-ready.stl     ★ 打印姿态，直接切片
-  mouse-hideout-100mm-with-mouse-30g.stl  与 30 g 方块鼠的装配体（用于尺寸核对）
 images/                                   预览 / 打印姿态 / 剖面 / 方块鼠
-scripts/build_house_from_source.py        由源网格重建模型的完整脚本
 ```
 
 ### 免责声明
@@ -157,12 +154,9 @@ scripts/build_house_from_source.py        由源网格重建模型的完整脚�
 
 ```
 models/
+  mouse-hideout-100mm-print-ready.stl     ★ print-ready, already oriented, slice directly
   mouse-hideout-100mm.obj                 source model (house pose)
-  mouse-hideout-100mm-house-pose.stl      STL, house pose
-  mouse-hideout-100mm-print-ready.stl     ★ print pose, slice directly
-  mouse-hideout-100mm-with-mouse-30g.stl  assembly with a 30 g block mouse (fit check)
 images/                                   preview / print orientation / section / block mouse
-scripts/build_house_from_source.py        full rebuild script
 ```
 
 ### Disclaimer
